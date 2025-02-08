@@ -1,0 +1,1 @@
+TechMemo is a streamlined note-taking system built with the MERN stack, designed for small repair shops. It allows technicians to document customer device issues and assign notes to employees, ensuring efficient tracking and resolution of repairs.
